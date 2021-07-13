@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NDP Theme Song Compilation</string>
+    <string name="tvTitle">Song Title:</string>
+    <string name="singers">Singers:</string>
+    <string name="year">Year:</string>
+    <string name="star">Stars</string>
+    <string name="insert">INSERT</string>
+    <string name="show">SHOW LIST</string>
+    <string name="showAll">SHOW ALL SONGS WITH 5 STARS</string>
+    <string name="id">ID:</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
